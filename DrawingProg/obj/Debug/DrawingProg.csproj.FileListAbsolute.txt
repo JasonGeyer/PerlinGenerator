@@ -8,3 +8,13 @@ C:\Users\Jason\source\repos\DrawingProg\DrawingProg\obj\Debug\DrawingProg.csproj
 C:\Users\Jason\source\repos\DrawingProg\DrawingProg\obj\Debug\DrawingProg.csproj.CoreCompileInputs.cache
 C:\Users\Jason\source\repos\DrawingProg\DrawingProg\obj\Debug\DrawingProg.exe
 C:\Users\Jason\source\repos\DrawingProg\DrawingProg\obj\Debug\DrawingProg.pdb
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\bin\Debug\DrawingProg.exe.config
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\bin\Debug\DrawingProg.exe
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\bin\Debug\DrawingProg.pdb
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.csprojAssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.Form1.resources
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.Properties.Resources.resources
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.csproj.GenerateResource.cache
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.exe
+C:\Users\Jason\Documents\GitHub\PerlinGenerator\DrawingProg\obj\Debug\DrawingProg.pdb
